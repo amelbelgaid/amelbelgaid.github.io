@@ -32,6 +32,10 @@ nav {
     justify-content: flex-start;
     gap: 30px;
 }
+.navcouleur{
+    color: white;
+}
+
 .titre{
     font-size: clamp(20px, 8vw, 40px);
     width: min(823px, 90%);
