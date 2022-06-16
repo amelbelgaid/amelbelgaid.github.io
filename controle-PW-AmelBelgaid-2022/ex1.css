@@ -1,0 +1,59 @@
+.gauche {
+    background-color: lightgrey;
+   border-top: solid black;
+   border-bottom: solid black;
+   border-left: solid black;
+}
+
+.centre {
+    background-color: grey;
+    border: dotted black;
+}
+
+.droite {
+    background-color: lightgrey;
+    border-top: solid black;
+    border-bottom: solid black;
+    border-right: solid black;
+}
+
+.bas {
+    background-color: lightgrey;
+    border-left: solid black;
+    border-right: solid black;
+}
+
+.titregauche {
+    background-color: #ffffff9f;
+}
+
+.titredroite {
+    background-color: #ffffff9f;
+}
+
+.titrehaut {
+    background-color: #ffffff9f;
+}
+
+.titrebas {
+    font-style: italic;
+}
+
+.titrefin {
+    background-color: #ffffff9f;
+}
+
+.centrehaut {
+background-color: rgba(211, 211, 211, 0.678);
+border-top: solid black 0.3ch;
+}
+
+.centrebas {
+background-color: rgba(211, 211, 211, 0.678) ;
+border-bottom: solid black 0.3ch;
+}
+
+.pcentrebas {
+    border-left: solid black;
+    border-right: solid black;
+}
