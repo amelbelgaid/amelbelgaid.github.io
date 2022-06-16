@@ -1,0 +1,32 @@
+.intro {
+    background-color: rgb(97, 193, 206) ;
+    margin-right: 400px;
+    font-family: Arial, Helvetica, sans-serif;
+}
+
+.paragraphe1 {
+    font-family: Arial, Helvetica, sans-serif;
+    width: 950px;
+position: relative;
+text-align: justify;
+line-height: 25px;
+}
+
+.image1 {
+position: relative;
+right: -1000px;
+top: -300px;
+width: 1000px;
+}
+
+.p1 {
+    font-family: Arial, Helvetica, sans-serif;
+    text-align: justify;
+    margin-top: -400px;
+    width: 950px;
+    line-height: 25px;
+}
+
+.liste {
+    font-family: Arial, Helvetica, sans-serif;
+}

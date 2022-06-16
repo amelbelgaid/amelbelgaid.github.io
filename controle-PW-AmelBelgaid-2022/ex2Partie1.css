@@ -1,0 +1,30 @@
+.titre1 {
+font-family: Arial, Helvetica, sans-serif;
+text-align: center;
+}
+
+.encadrebleu{
+font-family: Arial, Helvetica, sans-serif;
+background-color: rgb(97, 193, 206) ;
+text-align: justify;
+line-height: 30px;
+}
+
+.gauche {
+font-family: Arial, Helvetica, sans-serif;
+text-align: justify;
+width: 500px;
+position: relative;
+right: -100px;
+line-height: 30px;
+}
+
+.droite{
+font-family: Arial, Helvetica, sans-serif;
+text-align: justify;
+width: 500px;
+position: relative;
+top: -400px;
+right: -800px;
+line-height: 30px;
+}
